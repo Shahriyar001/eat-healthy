@@ -1,6 +1,6 @@
 ### to run in localhost
 ```
-start liveproject from VScode
+start live project 
 
 ```
 ## this is just a practice project on html css
