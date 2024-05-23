@@ -1,4 +1,4 @@
-### to run in localhost
+### to run in you pc
 ```
 start live project 
 
