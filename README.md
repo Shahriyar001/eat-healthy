@@ -3,6 +3,6 @@
 start live project 
 
 ```
-## this is just a practice project on html css
+## this is just a practice project on html css and javascript
 
 
